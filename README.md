@@ -1,4 +1,4 @@
 # helloworlddemo
 this is my first git repository
 <br/>
-author - Jahanvi Sharma Vaghisth
+author - Jahanvi Sharma Vashisth
